@@ -110,5 +110,9 @@
   "community-header-add-new-image": "Add New Image",
   "community-header-add-new-video": "Add New Video",
   "community-header-recent-changes": "Recent Changes",
-  "community-header-all-shortcuts": "All Shortcuts"
+  "community-header-all-shortcuts": "All Shortcuts",
+  "days-ago": "{days}d",
+  "hours-ago": "{hours}h",
+  "minutes-ago": "{minutes}m",
+  "now-label": "now"
 }
