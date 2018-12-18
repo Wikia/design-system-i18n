@@ -1,5 +1,8 @@
-# design-system-i18n
+# This repository is deprecated
+Use [Design System](https://github.com/Wikia/design-system) directly
+
+## design-system-i18n
 Localization messages for Design System components
 
-## Crowdin
+### Crowdin
 See https://wikia-inc.atlassian.net/wiki/display/INT/i18n+tools for information on getting the design system i18n files to and from crowdin. 
